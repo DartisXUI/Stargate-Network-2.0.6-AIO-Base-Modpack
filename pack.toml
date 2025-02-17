@@ -1,4 +1,6 @@
-name = "Stargate-Network-Base-Pack"
+name = "Dartis-Craft - SGCraft 2.0.6 - AIO Base Modpack"
+author = "Dartis-Craft"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -7,5 +9,5 @@ hash-format = "sha256"
 hash = "d7291e68254f4ea92b7f233c2a9b12126eb0647b96b1cfb7fbae5e423ffb1e51"
 
 [versions]
-forge = "14.23.5.2855"
+forge = "14.23.5.2860"
 minecraft = "1.12.2"
