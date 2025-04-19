@@ -189,6 +189,11 @@ hash = "e587990fea33cbc467fcb3bf9ed4cb0b40d548e562ad3a522fa9c5c1d7b91b92"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "4ac0649bd1ee3f3817eab56f0da71fda6468dabcdba7b67a7d2d9d8ff3fcd462"
 metafile = true
