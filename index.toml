@@ -395,26 +395,6 @@ hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
 metafile = true
 
 [[files]]
-file = "mods/thermal-tinkering.pw.toml"
-hash = "f8d2fd09cc595766a37f00b47c6d9ca065aaec86b6d0b043aec61b207a487fe0"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-jei.pw.toml"
-hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-tool-leveling.pw.toml"
-hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
-metafile = true
-
-[[files]]
 file = "mods/top-addons.pw.toml"
 hash = "77c59cb854eab7f8e6b15bf8d9a5a60c6387fedc243f99c76d8bf3374695ee98"
 metafile = true
