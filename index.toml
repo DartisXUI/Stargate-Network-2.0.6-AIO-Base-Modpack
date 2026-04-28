@@ -524,6 +524,16 @@ hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.pw.toml"
+hash = "58bc415d549e7d6848f874d7063d9cb1951cf2e41e9b4fec5e321566ff98fbeb"
+metafile = true
+
+[[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "91f2d59223235e8432344bc2ab7df5d4637cd6b6b22666dcc58f0a3ef7e48d5d"
 metafile = true
@@ -536,6 +546,16 @@ metafile = true
 [[files]]
 file = "mods/redstone-paste.pw.toml"
 hash = "640f0c5cd2a2ece6814820cca1b05ca7619807a70e1090b51c714d3523899205"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3d8916f266980c5865823128f66e8bac306e39e44ba95c9bb65330bff7b74115"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
 metafile = true
 
 [[files]]
