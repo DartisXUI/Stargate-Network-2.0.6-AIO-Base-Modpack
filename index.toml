@@ -5,6 +5,10 @@ file = "config/huntingdim/huntingdim.cfg"
 hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
 [[files]]
+file = "config/quark.cfg"
+hash = "ef119c23b3f8fa28fe5d2a12fdae455e43267d104fc88487cb236b3ef969cc56"
+
+[[files]]
 file = "config/ruins.txt"
 hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
 
@@ -389,6 +393,11 @@ hash = "327f292e785699b8c7bee0e5ecf11e4c3aa5d873d902b9af7fc4b778b3d4ff1c"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
 metafile = true
@@ -594,6 +603,11 @@ hash = "823b48471f5db356e240e328399d18f57ebff1d718ac9d775e2096711c10efc5"
 metafile = true
 
 [[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-wolves.pw.toml"
 hash = "9460df8924a51e9b4b4f2639d2cdf7bb960f3d8170ecc2237d99c662423b5ffb"
 metafile = true
@@ -601,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
