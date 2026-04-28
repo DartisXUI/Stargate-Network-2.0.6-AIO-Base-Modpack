@@ -324,6 +324,16 @@ hash = "1ad8460d6bebf5c50f1fafff75030c0295b0678dc426d63aff98871515961f65"
 metafile = true
 
 [[files]]
+file = "mods/ender-io.pw.toml"
+hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
+hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
+metafile = true
+
+[[files]]
 file = "mods/etheralt-utils.pw.toml"
 hash = "85d50b4b441018309656e07eb8dcade4084204d73ac761f74bdf76927c2de0a5"
 metafile = true
