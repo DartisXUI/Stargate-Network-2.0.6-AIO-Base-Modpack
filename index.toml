@@ -165,6 +165,10 @@ file = "config/ruins_config/templateparser/dartiscraft-seedship-final2.tml"
 hash = "369ab0275549adad54791dcd0529c225a6403bc71696cd68358c36c69da5ff6c"
 
 [[files]]
+file = "config/ruins_config/templateparser/dartiscraft-seedship-final3.tml"
+hash = "4d0433ad440b4f0436fd055b560c132be4a97b30efc58f72c71e1e8562c19c7d"
+
+[[files]]
 file = "config/ruins_config/templateparser/dartiscraft-stargate-sgcramp-final.tml"
 hash = "26d3a6dc3928cc166212774509944e66b3f8ec0825838279161696dde6a22319"
 
