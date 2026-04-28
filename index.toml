@@ -134,6 +134,11 @@ hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
