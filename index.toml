@@ -293,10 +293,6 @@ hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
 metafile = true
 
 [[files]]
-file = "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar"
-hash = "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
-
-[[files]]
 file = "mods/base.pw.toml"
 hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
 metafile = true
