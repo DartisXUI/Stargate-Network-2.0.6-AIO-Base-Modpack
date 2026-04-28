@@ -238,6 +238,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/bdlib.pw.toml"
+hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
+metafile = true
+
+[[files]]
 file = "mods/bear-with-me.pw.toml"
 hash = "3a1bb371fee8b1d64d2e5f3288a52fb305668ded62d1fa7d7318b076a4e2b3a6"
 metafile = true
@@ -260,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "e6b6f908221c3ff5f821e0f648a05f037ca100a242fb3d0122db9209e2531be2"
 metafile = true
 
 [[files]]
