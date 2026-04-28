@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/IC2.ini"
+hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
+
+[[files]]
+file = "config/actuallyadditions.cfg"
+hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
+
+[[files]]
+file = "config/etheraltpackutils.cfg"
+hash = "3e9c375e8948a14ee82a3ce2e3a708dab6eea1d091868eba61d5ab8744daa76d"
+
+[[files]]
 file = "config/huntingdim/huntingdim.cfg"
 hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
 [[files]]
+file = "config/ic2/shaped_recipes.ini"
+hash = "caebe3a5cebd5cf9278f89dd35c8e31a767c5f17fe32463e0ed3b0159ab79a5a"
+
+[[files]]
 file = "config/quark.cfg"
 hash = "ef119c23b3f8fa28fe5d2a12fdae455e43267d104fc88487cb236b3ef969cc56"
+
+[[files]]
+file = "config/reccomplex.cfg"
+hash = "b3c4bd6ef4af1b55d87f3d9ca33b0eb7e9043605cb2069706b22963e3c33d487"
 
 [[files]]
 file = "config/ruins.txt"
@@ -127,6 +147,10 @@ hash = "5354b815ebf9f2e31e9db783d5f559d842f9360d67c50df1dc51a54f812696d0"
 [[files]]
 file = "config/ruins_config/templateparser/taonasg.tml"
 hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
+
+[[files]]
+file = "config/secretroomsmod.cfg"
+hash = "acc9fe84df2c24a88f1ac6186620b9c53ddd19db410e8f33754d0c8d6f200ce8"
 
 [[files]]
 file = "config/sgcraft.cfg"
