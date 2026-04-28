@@ -5,12 +5,32 @@ file = "config/IC2.ini"
 hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
 [[files]]
+file = "config/TinkerToolLeveling.cfg"
+hash = "3cbd82e1036a6e444b028cf42d83448107d6ef8aa01a37098a8efa62821b4c4e"
+
+[[files]]
+file = "config/Waystones.cfg"
+hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
+
+[[files]]
 file = "config/actuallyadditions.cfg"
 hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
 
 [[files]]
+file = "config/animania_farm.cfg"
+hash = "29e4a570da4abfbd02ca5ad72824dde36e588ebec40064db360712b0926ba496"
+
+[[files]]
+file = "config/enderstorage.cfg"
+hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
+
+[[files]]
 file = "config/etheraltpackutils.cfg"
 hash = "3e9c375e8948a14ee82a3ce2e3a708dab6eea1d091868eba61d5ab8744daa76d"
+
+[[files]]
+file = "config/ftbutilities.cfg"
+hash = "f7838514c7ca510c5fe532abbeaea6e9f2309fc0dbbf5472b7a79e2c3d2df1af"
 
 [[files]]
 file = "config/huntingdim/huntingdim.cfg"
@@ -21,8 +41,16 @@ file = "config/ic2/shaped_recipes.ini"
 hash = "caebe3a5cebd5cf9278f89dd35c8e31a767c5f17fe32463e0ed3b0159ab79a5a"
 
 [[files]]
+file = "config/natura.cfg"
+hash = "208dd0e72fc9edbacb18a82d5baba1e21c474d7b8f8a1de6090bd0b3cf2d5776"
+
+[[files]]
+file = "config/orecore.cfg"
+hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
+
+[[files]]
 file = "config/quark.cfg"
-hash = "ef119c23b3f8fa28fe5d2a12fdae455e43267d104fc88487cb236b3ef969cc56"
+hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -157,6 +185,14 @@ file = "config/sgcraft.cfg"
 hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
 
 [[files]]
+file = "config/simplerpg.cfg"
+hash = "fa0579c6c5ec796bccbb65a2e142c7468023bffdc913720d06219a977b71dc37"
+
+[[files]]
+file = "config/tconstruct.cfg"
+hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
@@ -227,6 +263,11 @@ hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
 metafile = true
 
 [[files]]
+file = "mods/armory-expansion.pw.toml"
+hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
+metafile = true
+
+[[files]]
 file = "mods/aroma1997core.pw.toml"
 hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
@@ -250,6 +291,10 @@ metafile = true
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
 metafile = true
+
+[[files]]
+file = "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar"
+hash = "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
 
 [[files]]
 file = "mods/base.pw.toml"
@@ -332,6 +377,11 @@ hash = "00cb51528f1cd6f4e9924c8f53dd597d5e0e82a09c59645156ef1238c28e42df"
 metafile = true
 
 [[files]]
+file = "mods/constructs-armory.pw.toml"
+hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
@@ -389,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/ender-io.pw.toml"
 hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "bf089669a08776c6c3019cc2ed786ee1583fcb297784427b21cff7f9564d3c92"
 metafile = true
 
 [[files]]
@@ -532,6 +587,11 @@ hash = "a65d8113c60c45892d1b920b2e4ae5a8c666c735617172c71bfb4ab1932b473f"
 metafile = true
 
 [[files]]
+file = "mods/moar-tinkers.pw.toml"
+hash = "280125566b1c5a3d64fe29ecbbdded6da48231e546143c4e568f6260051c6627"
+metafile = true
+
+[[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
 metafile = true
@@ -589,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/ore-core.pw.toml"
 hash = "64f81ceb520bde5db97e6787763bb1b7aae2e8a253ba4f6357dc77041010fd33"
+metafile = true
+
+[[files]]
+file = "mods/oreberries.pw.toml"
+hash = "24b61bc846fd7f214cddfd811623cfe60b3b9eb3f1320a2491b406b2da370bf4"
 metafile = true
 
 [[files]]
@@ -744,6 +809,21 @@ metafile = true
 [[files]]
 file = "mods/thermal-innovation.pw.toml"
 hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jei.pw.toml"
+hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling.pw.toml"
+hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
 metafile = true
 
 [[files]]
