@@ -584,6 +584,11 @@ hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
 metafile = true
 
 [[files]]
+file = "mods/secretroomsmod.pw.toml"
+hash = "59fd5585fa7e96074fc8d2cf5197a88175fc5ee5459375eddb166f08393a284c"
+metafile = true
+
+[[files]]
 file = "mods/sgcraft-2-0-6.pw.toml"
 hash = "823b48471f5db356e240e328399d18f57ebff1d718ac9d775e2096711c10efc5"
 metafile = true
